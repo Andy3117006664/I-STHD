@@ -4,7 +4,7 @@
 
 I-STHD uses one shared interest-anchor bank to connect historical message selection with preference modeling after aggregation. Users share the interest coordinates while their mixtures change as new observations arrive.
 
-![I-STHD framework](docs/framework.png)
+![Overview of the I-STHD framework](docs/framework.png)
 
 ## Framework
 
